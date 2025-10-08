@@ -7,55 +7,55 @@ iv{
 }
 
 #bloco1{
-    background-color: dodgerblue;
+    background-color: rgb(255, 118, 118);
 }
 #bloco2{
-    background-image: url("/images\ \(3\).jpg");
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-repeat: repeat;
 }
 #bloco3{
-    background-image: url("/images\ \(3\).jpg");
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-position: center;
     background-repeat: no-repeat;
 }
 #bloco4{
-    background-image: url("/images\ \(3\).jpg");
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-size: cover;
 }
 #bloco5{
-    background-image: url("/images\ \(3\).jpg");
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 #bloco6{
-    background-image: url("/images\ \(3\).jpg");
+    background-image: url("index.html");
     background-origin: padding-box;
     background-repeat: no-repeat;
 }
 #bloco7{
-    background-image: url(/images\ \(3\).jpg);
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-origin: border-box;
 }
 #bloco8{
-    background-image: url(/images\ \(3\).jpg);
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-repeat: no-repeat;
     background-origin: content-box;
 }
 #bloco9{
-    background-image: url(/images\ \(3\).jpg);
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-repeat: no-repeat;
     background-clip: padding-box;
 
 }
 #bloco10{
-    background-image: url(/images\ \(3\).jpg);
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-clip: border-box;
 }
 #bloco11{
-    background-image: url(/images\ \(3\).jpg);
+    background-image: url("Carros-3-e1499904990995.jpg");
     background-clip: content-box;
 }
 #bloco12{
-    background: rgb(118, 166, 255) padding-box;
+    background: rgb(250, 43, 61) padding-box;
    
 }
